@@ -6,3 +6,6 @@ crash.log
 
 # For built boxes
 *.box
+
+# File can contain actual variables for environment with sensitive data. See example file.
+vsphere.pkrvars.hcl
